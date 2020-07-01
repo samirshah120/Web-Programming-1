@@ -1,0 +1,27 @@
+.success{
+    color: #28a745;
+}
+.failure{
+    color: #dc3545;
+}
+#labeltext{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 3rem;
+}
+#introduction{
+    color: darkblue;
+}
+#labeltext{
+    font-weight: bold;
+}
+button{
+    border-radius: 12px;
+}
+body {
+    background-color: linen;
+  }
+#checktext{
+    border: 2px solid black
+}

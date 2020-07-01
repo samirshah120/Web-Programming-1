@@ -1,0 +1,21 @@
+[
+    {
+      "schoolName": "TP Bhatia College",
+      "degree": "HSC(Science)",
+      "favoriteClass": "Maths",
+      "favoriteMemory": "Eating samosa in cafeteria"
+    },
+    {
+        "schoolName": "Thakur College of Engineering",
+        "degree": "BE in IT",
+        "favoriteClass": "Software Project Management",
+        "favoriteMemory": "I met my best friends Devyash and Rishabh"
+    },
+    {
+        "schoolName": "Stevens Institute of Technology",
+        "degree": "MS in CS",
+        "favoriteClass": "Web Programming and Data Structures",
+        "favoriteMemory": "Watching the skyline while doing assignments"
+    }
+
+]

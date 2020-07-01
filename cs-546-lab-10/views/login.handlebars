@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+</head>
+<body>
+    <p>Inside Login</p>
+    <p>{{error}}</p>
+    <form id="login-form" action="/login" method="POST">
+    <label>Enter User Name</label>
+    <input type="text" id="username" name="username">
+    <br>
+    <br>
+    <label>Enter Password</label>
+    <input type="password" id="password" name="password">
+    <br>
+    <br>
+    <button type="submit">Submit</button>
+    </form>
+{{#if Errors}}
+<p>Please provide valid username and password</p>
+{{/if}}
+</body>
+</html>
